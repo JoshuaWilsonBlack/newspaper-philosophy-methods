@@ -37,7 +37,7 @@ The file `packages_list.txt` contains all packages in the anaconda environment u
 
 ## Content Files
 
-Processed data is available [here](https://mega.nz/folder/wPYxQKxS#7LcrbfkHz4fN-uyN6Zvviw) (place in the `Dataset` directory), sample candidate corpora are available [here](https://mega.nz/folder/wPYxQKxS#7LcrbfkHz4fN-uyN6Zvviw) [here](https://mega.nz/folder/YbZlQCoK#H9PbnjJTHXDSFBmPjjemSg) (place in `Corpora` directory).
+Processed data is available [here](https://mega.nz/folder/wPYxQKxS#7LcrbfkHz4fN-uyN6Zvviw) (place in the `Dataset` directory), sample candidate corpora are available [here](https://mega.nz/folder/YbZlQCoK#H9PbnjJTHXDSFBmPjjemSg) (place in `Corpora` directory).
 
  
 ## Other links
