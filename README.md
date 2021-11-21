@@ -1,9 +1,8 @@
-# Philosophical Writing in Early New Zealand Newspapers
-## Corpus Creation Workflow
+# Philosophical Writing in Early New Zealand Newspapers (Corpus Creation Workflow)
 
-Joshua Black
-University of Canterbury
-joshua.black@canterbury.ac.nz
+Joshua Black <br/>
+University of Canterbury <br/>
+joshua.black@canterbury.ac.nz <br/>
 black.joshuad@gmail.com
 
 ## Overview
