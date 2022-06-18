@@ -1,0 +1,24 @@
+name: CorpusPaper
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - notebook
+  - dash
+  - jupyter
+  - nltk
+  - gensim
+  - matplotlib
+  - rise
+  - jupyter-dash
+  - dash-core-components
+  - dash_cytoscape
+  - dash-html-components
+  - scikit-learn
+  - gh
+  - spacy
+  - spacy-model-en_core_web_md
+  - pandarallel
+  - dash-table
+prefix: /home/joshua/anaconda3/envs/CorpusPaper
