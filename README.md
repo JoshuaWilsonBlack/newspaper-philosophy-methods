@@ -31,6 +31,7 @@ Other directories:
 - `TopicModels`: contains an LDA model generated in the first iteration of the corpus exploration process as set out in the relevant notebook in the `Worksheets` directory.
 - `Dictionaries`: contains a `gensim` dictionary used during the first iteration of corpus exploration.
 - `Pickles`: Some pre-generated metadata for the early New Zealand newspaper dataset.
+- `Presentation`: contains a ![RISE](https://rise.readthedocs.io/en/stable/) presentation on the project delivered to the DHA 2021 conference.
 
 The file `packages_list.txt` contains all packages in the anaconda environment used in the most recent run of these notebooks. It can be used to install all required packages ([see here](https://docs.conda.io/projects/conda/en/latest/commands/list.html)).
 
@@ -38,7 +39,7 @@ The file `packages_list.txt` contains all packages in the anaconda environment u
 
 Processed data is available [here](https://mega.nz/folder/wPYxQKxS#7LcrbfkHz4fN-uyN6Zvviw) (place in the `Dataset` directory), sample candidate corpora are available [here](https://mega.nz/folder/YbZlQCoK#H9PbnjJTHXDSFBmPjjemSg) (place in `Corpora` directory).
 
- 
+
 ## Other links
 
 Sample results and pre-generated cooccurrence networks from an earlier version of this project are available [here](https://nz-newspaper-philosophy.herokuapp.com/).
