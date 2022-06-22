@@ -21,4 +21,3 @@ dependencies:
   - spacy-model-en_core_web_md
   - pandarallel
   - dash-table
-prefix: /home/joshua/anaconda3/envs/CorpusPaper
